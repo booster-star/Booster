@@ -11,7 +11,7 @@ TikTok View Booster is a Python-based tool designed to increase the view count o
 
 <div align="center">
    
-## PRO HERE : [CLICK HERE]([https://tiktokbooster.online](https://socialbooster.astck.com/))
+## PRO HERE : [CLICK HERE](https://socialbooster.astck.com/)
    
 ## OFFICIAL WEBSITE : [CLICK HERE](https://tiktokbooster.online)
 
