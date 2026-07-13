@@ -14,5 +14,9 @@ pyperclip
 halo
 websocket-client
 opencv-python
-python-telegram-bot==20.7
+python-telegram-bot>=21.0
 aiohttp
+Pillow
+pytesseract
+opencv-python
+numpy
