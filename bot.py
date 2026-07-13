@@ -134,7 +134,7 @@ def main():
         logger.error("❌ TELEGRAM_TOKEN tidak ditemukan!")
         return
     
-    app = Application.builder().token(TOKEN).build()
+    app = Application.builder().token(TOKEN).read_timeout(30).write_timeout(30).build()
     
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("boost", boost_command))
