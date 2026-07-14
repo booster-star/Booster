@@ -18,5 +18,5 @@ python-telegram-bot>=21.0
 aiohttp
 Pillow
 pytesseract
-opencv-python
+opencv-python-headless
 numpy
